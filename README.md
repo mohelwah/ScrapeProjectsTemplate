@@ -1,4 +1,4 @@
-[![Scrape with power bi integeration](https://github.com/mohelwah/powerBi_scrape_intgration/actions/workflows/main.yml/badge.svg)](https://github.com/mohelwah/powerBi_scrape_intgration/actions/workflows/main.yml)
+[![ScrapeTemplate](https://github.com/mohelwah/ScrapeProjectsTemplate/actions/workflows/main.yml/badge.svg)](https://github.com/mohelwah/ScrapeProjectsTemplate/actions/workflows/main.yml)
 
 # Project Type: Scrape Project Template
 # Project Name : Template

@@ -1,8 +1,9 @@
 [![Scrape with power bi integeration](https://github.com/mohelwah/powerBi_scrape_intgration/actions/workflows/main.yml/badge.svg)](https://github.com/mohelwah/powerBi_scrape_intgration/actions/workflows/main.yml)
 
+# Project Type: Scrape Project Template
+# Project Name : Template
 
-# Scrape with power bi integeration
-this is scaffold template for python 
+this is scaffold template for scrape project in python 
  Create the following:
  - Makefile
  - requirement.txt

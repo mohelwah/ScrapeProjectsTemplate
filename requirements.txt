@@ -17,3 +17,4 @@ openpyxl
 xvfbwrapper==0.2.9
 ipykernel
 ipython
+scrapy

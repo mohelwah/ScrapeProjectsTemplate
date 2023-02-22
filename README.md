@@ -21,3 +21,13 @@ this is scaffold template for scrape project in python
  - get pack list:
     - pip freeze or pip list 
     test
+## To run selenuim in github codespace
+-  sudo apt-get updata 
+- apt-get install libgtk2.0-0 libgtk-3-0 libgbm-dev libnotify-dev libgconf-2-4 libnss3 libxss1 libasound2 libxtst6 xauth xvfb
+* install chrome 
+- wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+- sudo apt install ./google-chrome-stable_current_amd64.deb
+
+## run jupyter notebook
+  - jupyter noteboke: - install ipykernel
+        run command: - ipython kernel install --user --name=scrape
